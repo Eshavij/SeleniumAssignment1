@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5838" started-at="2017-03-20T12:45:16Z" finished-at="2017-03-20T12:45:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5838" started-at="2017-03-20T12:45:16Z" finished-at="2017-03-20T12:45:22Z">
+      <class name="testWebDriver.MyName">
+        <test-method status="PASS" signature="OpenTestng()[pri:1, instance:testWebDriver.MyName@458ad742]" name="OpenTestng" duration-ms="1135" started-at="2017-03-20T18:15:16Z" description="This test case will open Browser" finished-at="2017-03-20T18:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenTestng -->
+        <test-method status="PASS" signature="google()[pri:2, instance:testWebDriver.MyName@458ad742]" name="google" duration-ms="4468" started-at="2017-03-20T18:15:18Z" description="This test case will open google" finished-at="2017-03-20T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="automatename()[pri:3, instance:testWebDriver.MyName@458ad742]" name="automatename" duration-ms="215" started-at="2017-03-20T18:15:22Z" description="This test case will automate my name" finished-at="2017-03-20T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automatename -->
+      </class> <!-- testWebDriver.MyName -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
