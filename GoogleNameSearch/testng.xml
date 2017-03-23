@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <parameter name="link" value="http://google.com"/>
+<parameter name="search" value="Esha Vij"></parameter>
+<parameter name="find_id" value="lst-ib"></parameter>
+  <test name="Test">
+    <classes>
+      <class name="com.mavenproject.GoogleNameSearch.MyName"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
